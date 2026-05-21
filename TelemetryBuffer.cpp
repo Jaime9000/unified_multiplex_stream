@@ -1,3 +1,4 @@
+// Copyright (c) 2026 football.io LLLP. All rights reserved.
 #include "TelemetryBuffer.hpp"
 #include <utility>
 

@@ -1,5 +1,7 @@
 # Multiplexed Telemetry Stream — `unified_solution.cpp`
 
+Copyright (c) 2026 football.io LLLP. All rights reserved.
+
 A single-file C++17 demo that models a **multiplexed sensor bus**: multiple hardware processors share one polymorphic interface, each ingesting telemetry frames into its own ring buffer and stamping frames with a device identity.
 
 This document focuses on [`unified_solution.cpp`](unified_solution.cpp) — everything in one translation unit for easier reading and review.

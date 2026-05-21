@@ -1,3 +1,4 @@
+// Copyright (c) 2026 football.io LLLP. All rights reserved.
 // unified_solution.cpp — TelemetryBuffer + main in one translation unit
 
 #include <atomic>
